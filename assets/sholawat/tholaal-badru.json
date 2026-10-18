@@ -1,0 +1,89 @@
+{
+  "id": "tholaal-badru",
+  "judul": "Thola'al Badru",
+  "grup": "Maulid",
+  "kategori": "Sholawat",
+  "audio": "assets/audio/tholaal-badru.mp3",
+  "bait": [
+    {
+      "arab": "طَلَعَ الْبَدْرُ عَلَيْنَا",
+      "latin": "Thola'al badru 'alayna",
+      "arti": "Telah terbit bulan purnama kepada kita"
+    },
+    {
+      "arab": "مِنْ ثَنِيَّاتِ الْوَدَاعْ",
+      "latin": "Min tsaniyyatil wadaa'",
+      "arti": "Dari lembah Wada'"
+    },
+    {
+      "arab": "وَجَبَ الشُّكْرُ عَلَيْنَا",
+      "latin": "Wajabasy syukru 'alayna",
+      "arti": "Wajib bagi kita bersyukur"
+    },
+    {
+      "arab": "مَا دَعَا لِلّٰهِ دَاعْ",
+      "latin": "Maa da'aa lillaahi daa'",
+      "arti": "Selama ada yang menyeru kepada Allah"
+    },
+    {
+      "arab": "أَيُّهَا الْمَبْعُوثُ فِينَا",
+      "latin": "Ayyuhal mab'uutsu fiinaa",
+      "arti": "Wahai orang yang diutus kepada kami"
+    },
+    {
+      "arab": "جِئْتَ بِالْأَمْرِ الْمُطَاعْ",
+      "latin": "Ji'ta bil amril muthoo'",
+      "arti": "Engkau datang dengan perintah yang ditaati"
+    },
+    {
+      "arab": "جِئْتَ شَرَّفْتَ الْمَدِينَة",
+      "latin": "Ji'ta syarraftal madiinah",
+      "arti": "Engkau datang membawa kemuliaan bagi kota Madinah"
+    },
+    {
+      "arab": "مَرْحَبًا يَا خَيْرَ دَاعْ",
+      "latin": "Marhaban yaa khoiro daa'",
+      "arti": "Selamat datang wahai penyeru terbaik"
+    },
+    {
+      "arab": "أَنْتَ شَمْسٌ أَنْتَ بَدْرٌ",
+      "latin": "Anta syamsun anta badrun",
+      "arti": "Engkau bagaikan matahari, engkau bagaikan bulan purnama"
+    },
+    {
+      "arab": "أَنْتَ نُورٌ فَوْقَ نُورٍ",
+      "latin": "Anta nuurun fawqo nuuri",
+      "arti": "Engkau cahaya di atas cahaya"
+    },
+    {
+      "arab": "أَنْتَ إِكْسِيرٌ وَغَالِي",
+      "latin": "Anta iksiirun wa ghaalii",
+      "arti": "Engkau rahasia hidup yang mahal harganya"
+    },
+    {
+      "arab": "أَنْتَ مِصْبَاحُ الصُّدُورِ",
+      "latin": "Anta mishbaahush shuduuri",
+      "arti": "Engkau adalah pelita hati"
+    },
+    {
+      "arab": "يَا حَبِيبِي يَا مُحَمَّد",
+      "latin": "Ya habiibi ya Muhammad",
+      "arti": "Wahai kekasihku, wahai Muhammad"
+    },
+    {
+      "arab": "يَا عَرُوسَ الْخَافِقَيْنِ",
+      "latin": "Ya 'aruusal khoofiqoyni",
+      "arti": "Wahai pengantin seluruh alam"
+    },
+    {
+      "arab": "يَا مُؤَيَّدُ يَا مُمَجَّد",
+      "latin": "Ya mu-ayyad ya mumajjad",
+      "arti": "Wahai nabi yang dikuatkan dan dipuji"
+    },
+    {
+      "arab": "يَا إِمَامَ الْقِبْلَتَيْنِ",
+      "latin": "Ya imaamal qiblatayni",
+      "arti": "Wahai imam dua kiblat"
+    }
+  ]
+}

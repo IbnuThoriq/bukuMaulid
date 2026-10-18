@@ -1,0 +1,67 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Sholawat: Tambah Baru",
+      "type": "shell",
+      "command": "dart run tool/add_sholawat.dart baru \"${input:judulSholawat}\" --grup \"${input:grupSholawat}\"",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Sholawat: Validasi Konten",
+      "type": "shell",
+      "command": "dart run tool/add_sholawat.dart validasi",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Sholawat: Lihat Daftar",
+      "type": "shell",
+      "command": "dart run tool/add_sholawat.dart list",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Flutter: Jalankan (Chrome - preview)",
+      "type": "shell",
+      "command": "D:\\flutter\\bin\\flutter.bat run -d chrome",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Flutter: Jalankan (Android)",
+      "type": "shell",
+      "command": "D:\\flutter\\bin\\flutter.bat run",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "judulSholawat",
+      "type": "promptString",
+      "description": "Judul sholawat baru, contoh: Ya Imamarusli"
+    },
+    {
+      "id": "grupSholawat",
+      "type": "promptString",
+      "description": "Grup/majelis, contoh: Muhibbus Sholawat (kosongkan = Umum)"
+    }
+  ]
+}

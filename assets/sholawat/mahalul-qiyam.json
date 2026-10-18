@@ -1,0 +1,229 @@
+{
+  "id": "mahalul-qiyam",
+  "judul": "Mahalul Qiyam",
+  "grup": "Maulid",
+  "kategori": "Pasal",
+  "audio": "",
+  "bait": [
+    {
+      "arab": "يَا نَبِي سَلَامْ عَلَيْكَ",
+      "latin": "Yaa Nabii salaam 'alayka",
+      "arti": "Wahai Nabi, salam sejahtera untukmu"
+    },
+    {
+      "arab": "يَا رَسُوْلْ سَلَامْ عَلَيْكَ",
+      "latin": "Yaa Rosuul salaam 'alayka",
+      "arti": "Wahai Rasul, salam sejahtera untukmu"
+    },
+    {
+      "arab": "يَا حَبِيْبْ سَلَامْ عَلَيْكَ",
+      "latin": "Yaa Habiib salaam 'alayka",
+      "arti": "Wahai kekasih, salam sejahtera untukmu"
+    },
+    {
+      "arab": "صَلَوَاتُ اللهْ عَلَيْكَ",
+      "latin": "Sholawaatullaah 'alayka",
+      "arti": "Sholawat Allah tercurah untukmu"
+    },
+    {
+      "arab": "أَشْرَقَ الْبَدْرُ عَلَيْنَا",
+      "latin": "Asyroqol badru 'alaina",
+      "arti": "Telah terbit bulan purnama menyinari kami"
+    },
+    {
+      "arab": "فَاخْتَفَتْ مِنْهُ الْبُدُوْرُ",
+      "latin": "Fakhtafat minhul buduuru",
+      "arti": "Maka pudarlah purnama-purnama lainnya"
+    },
+    {
+      "arab": "مِثْلَ حُسْنِكَ مَا رَأَيْنَا",
+      "latin": "Mitsla husnika maa ro-aina",
+      "arti": "Seperti keindahanmu belum pernah kami lihat"
+    },
+    {
+      "arab": "قَطُّ يَا وَجْهَ السُّرُوْرِ",
+      "latin": "Qotthu yaa wajhas-suruuri",
+      "arti": "Sama sekali, wahai wajah yang berseri-seri"
+    },
+    {
+      "arab": "أَنْتَ شَمْسٌ أَنْتَ بَدْرٌ",
+      "latin": "Anta syamsun anta badrun",
+      "arti": "Engkau bagaikan matahari, engkau bagaikan bulan purnama"
+    },
+    {
+      "arab": "أَنْتَ نُوْرٌ فَوْقَ نُوْرِ",
+      "latin": "Anta nuurun fauqo nuuri",
+      "arti": "Engkau cahaya di atas cahaya"
+    },
+    {
+      "arab": "أَنْتَ إِكْسِيْرٌ وَغَالِي",
+      "latin": "Anta iksiirun wa ghaalii",
+      "arti": "Engkau laksana emas murni yang mahal harganya"
+    },
+    {
+      "arab": "أَنْتَ مِصْبَاحُ الصُّدُوْرِ",
+      "latin": "Anta mishbaahush-shuduuri",
+      "arti": "Engkau adalah pelita hati"
+    },
+    {
+      "arab": "يَا حَبِيْبِيْ يَا مُحَمَّدُ",
+      "latin": "Yaa habiibii yaa Muhammad",
+      "arti": "Wahai kekasihku, wahai Muhammad"
+    },
+    {
+      "arab": "يَا عَرُوْسَ الْخَافِقَيْنِ",
+      "latin": "Yaa 'aruusal khoofiqoini",
+      "arti": "Wahai pengantin tanah timur dan barat"
+    },
+    {
+      "arab": "يَا مُؤَيَّدْ يَا مُمَجَّدْ",
+      "latin": "Yaa mu-ayyad yaa mumajjad",
+      "arti": "Wahai Nabi yang dikuatkan, wahai Nabi yang diagungkan"
+    },
+    {
+      "arab": "يَا إِمَامَ الْقِبْلَتَيْنِ",
+      "latin": "Yaa imaamal qiblataini",
+      "arti": "Wahai imam dua kiblat"
+    },
+    {
+      "arab": "مَنْ رَأَى وَجْهَكَ يَسْعَدْ",
+      "latin": "Man ro-aa wajhaka yas'ad",
+      "arti": "Barangsiapa yang melihat wajahmu niscaya berbahagia"
+    },
+    {
+      "arab": "يَا كَرِيْمَ الْوَالِدَيْنِ",
+      "latin": "Yaa kariimal waalidaini",
+      "arti": "Wahai orang yang mulia kedua orang tuanya"
+    },
+    {
+      "arab": "حَوْضُكَ الصَّافِي الْمُبَرَّدْ",
+      "latin": "Haudhukas-soofîl mubarrod",
+      "arti": "Telagamu jernih dan sejuk"
+    },
+    {
+      "arab": "وِرْدُنَا يَوْمَ النُّشُوْرِ",
+      "latin": "Wirdunaa yauman-nusyuuri",
+      "arti": "Tempat minum kami di hari kiamat"
+    },
+    {
+      "arab": "مَا رَأَيْنَا الْعِيْسَ حَنَّتْ",
+      "latin": "Maa ro-ainal 'iisa hannat",
+      "arti": "Tidaklah kami melihat unta merintih"
+    },
+    {
+      "arab": "بِالسُّرَى إِلَّا إِلَيْكَ",
+      "latin": "Bis-suroo illaa ilaika",
+      "arti": "Berjalan malam hari kecuali menuju kepadamu"
+    },
+    {
+      "arab": "وَالْغَمَامَةْ قَدْ أَظَلَّتْ",
+      "latin": "Wal ghomaamah qod adzollat",
+      "arti": "Dan awan telah menaungimu"
+    },
+    {
+      "arab": "وَالْمَلَا صَلُّوْا عَلَيْكَ",
+      "latin": "Wal malaa solluu 'alaika",
+      "arti": "Dan para malaikat bersholawat untukmu"
+    },
+    {
+      "arab": "وَأَتَاكَ الْعُوْدُ يَبْكِيْ",
+      "latin": "Wa ataakal 'uudu yabkii",
+      "arti": "Dan pohon pun datang menangis kepadamu"
+    },
+    {
+      "arab": "وَتَذَلَّلْ بَيْنَ يَدَيْكَ",
+      "latin": "Wa tadzallal baina yadaika",
+      "arti": "Dan bersimpuh di hadapanmu"
+    },
+    {
+      "arab": "وَاسْتَجَارَتْ يَا حَبِيْبِيْ",
+      "latin": "Wastajaarot yaa habiibii",
+      "arti": "Dan meminta perlindungan wahai kekasihku"
+    },
+    {
+      "arab": "عِنْدَكَ الظَّبْيُ النَّفُوْرُ",
+      "latin": "'Indakadz-dzobyun-nufuuru",
+      "arti": "Kepadamu, kijang yang lari ketakutan itu"
+    },
+    {
+      "arab": "عِنْدَمَا شَدُّوْا الْمَحَامِلْ",
+      "latin": "'Indamaa syadduul mahaamil",
+      "arti": "Ketika rombongan bersiap berangkat"
+    },
+    {
+      "arab": "وَتَنَادَوْا لِلرَّحِيْلِ",
+      "latin": "Wa tanaadau lir-rohiili",
+      "arti": "Dan mereka menyerukan untuk berangkat"
+    },
+    {
+      "arab": "جِئْتُهُمْ وَالدَّمْعُ سَائِلْ",
+      "latin": "Ji'tuhum wad-dam'u saa-il",
+      "arti": "Aku datang kepada mereka dengan air mata mengalir"
+    },
+    {
+      "arab": "قُلْتُ قِفْ لِيْ يَا دَلِيْلُ",
+      "latin": "Qultu qif lii yaa daliilu",
+      "arti": "Aku katakan: Tunggulah aku sebentar wahai penunjuk jalan"
+    },
+    {
+      "arab": "هَلْ تُحَمِّلْ لِيْ رَسَائِلْ",
+      "latin": "Hal tuhammil lii rosaa-il",
+      "arti": "Maukah engkau membawakan surat-suratku?"
+    },
+    {
+      "arab": "أَيُّهَا الشَّوْقُ الْجَزِيْلُ",
+      "latin": "Ayyuhasy-syauqul jaziilu",
+      "arti": "Sebagai tanda rindu yang sangat mendalam"
+    },
+    {
+      "arab": "نَحْوَ هَاتِيْكَ الْمَنَازِلْ",
+      "latin": "Nahwa haatiikal manaazil",
+      "arti": "Menuju tempat kediaman itu"
+    },
+    {
+      "arab": "فِي الْعَشِيِّ وَالْبُكُوْرِ",
+      "latin": "Fil 'asyiyyi wal bukuuri",
+      "arti": "Di waktu sore dan pagi hari"
+    },
+    {
+      "arab": "كُلُّ مَنْ فِي الْكَوْنِ هَامُوْا",
+      "latin": "Kullu man fil kauni haamuu",
+      "arti": "Setiap orang di alam semesta ini merasa rindu"
+    },
+    {
+      "arab": "فِيْكَ يَا بَاهِي الْجَبِيْنِ",
+      "latin": "Fiika yaa baahil jabiini",
+      "arti": "Kepadamu, wahai orang yang bersinar keningnya"
+    },
+    {
+      "arab": "وَلَهُمْ فِيْكَ غَرَامٌ",
+      "latin": "Wa lahum fiika ghoroomun",
+      "arti": "Dan mereka mencintaimu dengan sangat"
+    },
+    {
+      "arab": "وَاشْتِيَاقٌ وَحَنِيْنٌ",
+      "latin": "Wasytiyaaqun wa haniinun",
+      "arti": "Dan penuh rasa rindu serta keinginan yang kuat"
+    },
+    {
+      "arab": "فِي مَعَانِيْكَ الْأَنَامُ",
+      "latin": "Fii ma'aaniikal anaamu",
+      "arti": "Tentang sifat-sifatmu, para manusia"
+    },
+    {
+      "arab": "قَدْ تَبَدَّتْ حَائِرِيْنَ",
+      "latin": "Qod tabaddat haa-iriina",
+      "arti": "Telah nampak kebingungan (karena kagum)"
+    },
+    {
+      "arab": "مَرْحَبًا يَا مَرْحَبًا يَا نُوْرَ عَيْنِي مَرْحَبًا",
+      "latin": "Marhaban yaa marhaban yaa nuuro 'ainii marhaban",
+      "arti": "Selamat datang, selamat datang, wahai cahaya mataku, selamat datang"
+    },
+    {
+      "arab": "مَرْحَبًا جَدَّ الْحُسَيْنِ مَرْحَبًا يَا مَرْحَبًا",
+      "latin": "Marhaban jaddal Husaini marhaban yaa marhaban",
+      "arti": "Selamat datang kakek Hasan dan Husain, selamat datang"
+    }
+  ]
+}

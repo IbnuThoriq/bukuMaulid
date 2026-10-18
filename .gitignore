@@ -1,0 +1,19 @@
+# Sholawat App diabaikan dari sync berat OneDrive / git
+.build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.idea/
+*.iml
+.vscode/settings.json
+android/.gradle/
+android/app/build/
+
+android/local.properties
+android/local/.kotlin/
+*.log
+.DS_Store
